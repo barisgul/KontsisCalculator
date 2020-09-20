@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OIorpGB+5Tj4B6faG5jQlRqiq0fcvNfKudacF3ib/ymgoGLDyAuD17kCzLZaedREDeOtH2kbrkH/AKWbI6SbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baris\\source\\repos\\KontsisCalculator\\KontsisCalculator\\KontsisCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

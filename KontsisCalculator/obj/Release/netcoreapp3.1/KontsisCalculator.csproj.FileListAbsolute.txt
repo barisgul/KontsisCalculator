@@ -1,0 +1,15 @@
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.exe
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.deps.json
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.runtimeconfig.json
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.runtimeconfig.dev.json
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.dll
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\bin\Release\netcoreapp3.1\KontsisCalculator.pdb
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.Form1.resources
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.AssemblyInfo.cs
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.dll
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.pdb
+C:\Users\baris\source\repos\KontsisCalculator\KontsisCalculator\obj\Release\netcoreapp3.1\KontsisCalculator.genruntimeconfig.cache
